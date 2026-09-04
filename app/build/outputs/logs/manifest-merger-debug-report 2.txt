@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:design:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/79b7b0b885fa02dbcfb0ccf3ed600e27/transformed/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/1abf8c4df77c6e1e2f761612510883d3/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/2ae75353d8063d8c857fa7e583d28a97/transformed/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/cdb92f7241cf0ad34520162600dea0aa/transformed/gridlayout-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/1f0d8b7da07082154449a71cd7be81d9/transformed/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/64f45bbf1c0fad61fcba635b147a0530/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/4668485d433a6a3c275fa45a08279678/transformed/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/99f5fe4259756855a10d4cff2cafde39/transformed/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/9be5522cd3d4f8fc86cec06e316470ce/transformed/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/06a4fe317bea7e9d34db9ac570408575/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/254e3ba6c68f9ebfd9cbb122f2330abd/transformed/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/3c1c05a370de090ba630298f122282df/transformed/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/493445412e0a1eba87c371342c6f387d/transformed/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/5e9372ff40b92cfea9c535c6cd2924f8/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/f4f3873af0d553cc64124ffe6c3ad350/transformed/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/c54e31afae427b7402e0557968d575e9/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/1d94df7c21f05b1d3d30c77140ac1c5c/transformed/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/52e32c32ea0a663448fa2b137d7f96a0/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/0ab6b278af1ece45defaa3b93f326587/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/e56b120ef24f4d310ca61e8de7fde39c/transformed/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/c03e9bb4ea3fad70e3648572232f0911/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/895d504a8f3fce48b6bfd42120a9c468/transformed/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/chenyenching/.gradle/caches/9.0.0/transforms/742ce733ce831e5371cfde504e270d90/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/ab18e3dc8a2f0acf6c93afbb00b70201/transformed/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/2de3041973bf01e2441bc358281a7297/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/da751429297e1533f33ede3b5773003b/transformed/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/chenyenching/.gradle/caches/9.0.0/transforms/b735b846170823181684ac60d123e1fa/transformed/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/7c97f328aa32c2b8707024aa53fd4f41/transformed/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/chenyenching/.gradle/caches/9.0.0/transforms/ecde3f1e12d7a45c744eb640d614b3a9/transformed/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/chenyenching/.gradle/caches/9.0.0/transforms/517438499b0397782d6667ed54a98a2f/transformed/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/chenyenching/.gradle/caches/9.0.0/transforms/9eac00f153a8ceaf5b36989044099a10/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:5:5-39
+		INJECTED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:4:5-43
+		INJECTED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml
+	platformBuildVersionName
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:7:5-43
+	platformBuildVersionCode
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:6:5-34
+uses-sdk
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:8:5-10:40
+INJECTED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:8:5-10:40
+INJECTED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:8:5-10:40
+MERGED from [com.android.support:design:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/79b7b0b885fa02dbcfb0ccf3ed600e27/transformed/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/79b7b0b885fa02dbcfb0ccf3ed600e27/transformed/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/1abf8c4df77c6e1e2f761612510883d3/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/1abf8c4df77c6e1e2f761612510883d3/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/2ae75353d8063d8c857fa7e583d28a97/transformed/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/2ae75353d8063d8c857fa7e583d28a97/transformed/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/cdb92f7241cf0ad34520162600dea0aa/transformed/gridlayout-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/cdb92f7241cf0ad34520162600dea0aa/transformed/gridlayout-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/1f0d8b7da07082154449a71cd7be81d9/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/1f0d8b7da07082154449a71cd7be81d9/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/64f45bbf1c0fad61fcba635b147a0530/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/64f45bbf1c0fad61fcba635b147a0530/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/4668485d433a6a3c275fa45a08279678/transformed/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/4668485d433a6a3c275fa45a08279678/transformed/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/99f5fe4259756855a10d4cff2cafde39/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/99f5fe4259756855a10d4cff2cafde39/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/9be5522cd3d4f8fc86cec06e316470ce/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/9be5522cd3d4f8fc86cec06e316470ce/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/06a4fe317bea7e9d34db9ac570408575/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/06a4fe317bea7e9d34db9ac570408575/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/254e3ba6c68f9ebfd9cbb122f2330abd/transformed/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/254e3ba6c68f9ebfd9cbb122f2330abd/transformed/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/3c1c05a370de090ba630298f122282df/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/3c1c05a370de090ba630298f122282df/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/493445412e0a1eba87c371342c6f387d/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/493445412e0a1eba87c371342c6f387d/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/5e9372ff40b92cfea9c535c6cd2924f8/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/5e9372ff40b92cfea9c535c6cd2924f8/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/f4f3873af0d553cc64124ffe6c3ad350/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/f4f3873af0d553cc64124ffe6c3ad350/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/c54e31afae427b7402e0557968d575e9/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/c54e31afae427b7402e0557968d575e9/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/1d94df7c21f05b1d3d30c77140ac1c5c/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/1d94df7c21f05b1d3d30c77140ac1c5c/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/52e32c32ea0a663448fa2b137d7f96a0/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/52e32c32ea0a663448fa2b137d7f96a0/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/0ab6b278af1ece45defaa3b93f326587/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/0ab6b278af1ece45defaa3b93f326587/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/e56b120ef24f4d310ca61e8de7fde39c/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/e56b120ef24f4d310ca61e8de7fde39c/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/c03e9bb4ea3fad70e3648572232f0911/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/c03e9bb4ea3fad70e3648572232f0911/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/895d504a8f3fce48b6bfd42120a9c468/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/895d504a8f3fce48b6bfd42120a9c468/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/chenyenching/.gradle/caches/9.0.0/transforms/742ce733ce831e5371cfde504e270d90/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/chenyenching/.gradle/caches/9.0.0/transforms/742ce733ce831e5371cfde504e270d90/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/ab18e3dc8a2f0acf6c93afbb00b70201/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/ab18e3dc8a2f0acf6c93afbb00b70201/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/2de3041973bf01e2441bc358281a7297/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/2de3041973bf01e2441bc358281a7297/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/da751429297e1533f33ede3b5773003b/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/da751429297e1533f33ede3b5773003b/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/chenyenching/.gradle/caches/9.0.0/transforms/b735b846170823181684ac60d123e1fa/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/chenyenching/.gradle/caches/9.0.0/transforms/b735b846170823181684ac60d123e1fa/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/7c97f328aa32c2b8707024aa53fd4f41/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/7c97f328aa32c2b8707024aa53fd4f41/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/chenyenching/.gradle/caches/9.0.0/transforms/ecde3f1e12d7a45c744eb640d614b3a9/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/chenyenching/.gradle/caches/9.0.0/transforms/ecde3f1e12d7a45c744eb640d614b3a9/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/chenyenching/.gradle/caches/9.0.0/transforms/517438499b0397782d6667ed54a98a2f/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/chenyenching/.gradle/caches/9.0.0/transforms/517438499b0397782d6667ed54a98a2f/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/chenyenching/.gradle/caches/9.0.0/transforms/9eac00f153a8ceaf5b36989044099a10/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/chenyenching/.gradle/caches/9.0.0/transforms/9eac00f153a8ceaf5b36989044099a10/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:9:9-34
+		INJECTED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:12:22-77
+application
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:13:5-56:19
+INJECTED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:13:5-56:19
+MERGED from [com.android.support:design:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/79b7b0b885fa02dbcfb0ccf3ed600e27/transformed/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/79b7b0b885fa02dbcfb0ccf3ed600e27/transformed/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/e56b120ef24f4d310ca61e8de7fde39c/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/e56b120ef24f4d310ca61e8de7fde39c/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/c03e9bb4ea3fad70e3648572232f0911/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/c03e9bb4ea3fad70e3648572232f0911/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:extractNativeLibs
+		INJECTED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/chenyenching/.gradle/caches/9.0.0/transforms/e56b120ef24f4d310ca61e8de7fde39c/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.four_zreo.soulrepair.Splash_Screen
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:18:9-25:20
+	android:label
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:20:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.four_zreo.soulrepair.Main_Soul_Repair_Activity
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:26:9-29:45
+	android:label
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:27:13-45
+	android:launchMode
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:29:13-43
+	android:name
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:28:13-78
+activity#com.four_zreo.soulrepair.Colors_Activity
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:30:9-32:70
+	android:label
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:32:13-68
+activity#com.four_zreo.soulrepair.Musics_Activity
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:33:9-35:70
+	android:label
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:35:13-68
+activity#com.four_zreo.soulrepair.Colors_OpenBlackHybridBlue_Activity
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:36:9-38:57
+	android:theme
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:38:13-55
+	android:name
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:37:13-88
+activity#com.four_zreo.soulrepair.Colors_OpenWholeColors_Activity
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:39:9-41:57
+	android:theme
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:41:13-55
+	android:name
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:40:13-84
+activity#com.four_zreo.soulrepair.Colors_OpenWhite_Activity
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:42:9-44:57
+	android:theme
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:44:13-55
+	android:name
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:43:13-78
+activity#com.four_zreo.soulrepair.Colors_OpenLightBlue_Activity
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:45:9-47:57
+	android:theme
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:47:13-55
+	android:name
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:46:13-82
+activity#com.four_zreo.soulrepair.androidhive.musicplayer.AndroidBuildingMusicPlayerActivity
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:48:9-51:76
+	android:label
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:49:13-45
+	android:configChanges
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:51:13-74
+	android:name
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:50:13-111
+activity#com.four_zreo.soulrepair.androidhive.musicplayer.PlayListActivity
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:52:9-54:95
+	android:label
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:53:13-45
+	android:name
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:54:13-93
+activity#com.four_zreo.soulrepair.paul.arian.fileselector.FileSelectionActivity
+ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:55:9-106
+	android:name
+		ADDED from /Users/chenyenching/Downloads/soul repair/app/src/main/AndroidManifest.xml:55:19-104

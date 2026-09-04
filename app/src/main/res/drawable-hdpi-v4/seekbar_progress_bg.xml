@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <clip>
+            <bitmap
+                android:gravity="left"
+                android:src="@drawable/img_seekbar_progress_blue"
+                android:antialias="true"
+                android:filter="false"
+                android:dither="false"
+                android:tileMode="repeat"/>
+        </clip>
+    </item>
+</layer-list>

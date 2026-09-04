@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.four_zreo.soulrepair.app-mergeDebugResources-30:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/Users/doraallenx/.gradle/caches/9.0.0/transforms/011a29a351f539b97bd199ed624dc93a/transformed/appcompat-1.6.1/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.four_zreo.soulrepair.app-mergeDebugResources-30:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/doraallenx/.gradle/caches/9.0.0/transforms/011a29a351f539b97bd199ed624dc93a/transformed/appcompat-1.6.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

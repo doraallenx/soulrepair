@@ -1,0 +1,35 @@
+com.four_zreo.soulrepair.app-appcompat-1.6.1-0 /Users/doraallenx/.gradle/caches/9.0.0/transforms/011a29a351f539b97bd199ed624dc93a/transformed/appcompat-1.6.1/res
+com.four_zreo.soulrepair.app-coordinatorlayout-1.2.0-1 /Users/doraallenx/.gradle/caches/9.0.0/transforms/134f3797c927e0483e3a0e2c981d38bd/transformed/coordinatorlayout-1.2.0/res
+com.four_zreo.soulrepair.app-lifecycle-livedata-core-2.6.1-2 /Users/doraallenx/.gradle/caches/9.0.0/transforms/1af304dc1bfefc8e401d792017ddb2f2/transformed/lifecycle-livedata-core-2.6.1/res
+com.four_zreo.soulrepair.app-transition-1.2.0-3 /Users/doraallenx/.gradle/caches/9.0.0/transforms/1afabd81e4319390448f706504844a56/transformed/transition-1.2.0/res
+com.four_zreo.soulrepair.app-lifecycle-viewmodel-2.6.1-4 /Users/doraallenx/.gradle/caches/9.0.0/transforms/1e6633c2b2b039aa2e6a0293d876a96f/transformed/lifecycle-viewmodel-2.6.1/res
+com.four_zreo.soulrepair.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-5 /Users/doraallenx/.gradle/caches/9.0.0/transforms/1f4aa5a00265edd78c30b00b555af1ae/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/res
+com.four_zreo.soulrepair.app-jetified-savedstate-1.2.1-6 /Users/doraallenx/.gradle/caches/9.0.0/transforms/2a40324a381008fc03314bacc327cfdf/transformed/jetified-savedstate-1.2.1/res
+com.four_zreo.soulrepair.app-jetified-appcompat-resources-1.6.1-7 /Users/doraallenx/.gradle/caches/9.0.0/transforms/32594f2e2bf108215cf751658af1d4fd/transformed/jetified-appcompat-resources-1.6.1/res
+com.four_zreo.soulrepair.app-recyclerview-1.1.0-8 /Users/doraallenx/.gradle/caches/9.0.0/transforms/370a2b489337c3cdee329338e9e2d460/transformed/recyclerview-1.1.0/res
+com.four_zreo.soulrepair.app-constraintlayout-2.0.1-9 /Users/doraallenx/.gradle/caches/9.0.0/transforms/4efdeaa0ff9fecada8382da35e9b5ca8/transformed/constraintlayout-2.0.1/res
+com.four_zreo.soulrepair.app-jetified-emoji2-views-helper-1.2.0-10 /Users/doraallenx/.gradle/caches/9.0.0/transforms/537a95cedfd41099d2596e8a7f3e37d4/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.four_zreo.soulrepair.app-jetified-core-ktx-1.12.0-11 /Users/doraallenx/.gradle/caches/9.0.0/transforms/5f57380cab740ee61557ecba464825f6/transformed/jetified-core-ktx-1.12.0/res
+com.four_zreo.soulrepair.app-jetified-activity-1.8.0-12 /Users/doraallenx/.gradle/caches/9.0.0/transforms/6128a11fa278ccf51aea620c2112eb14/transformed/jetified-activity-1.8.0/res
+com.four_zreo.soulrepair.app-lifecycle-runtime-2.6.1-13 /Users/doraallenx/.gradle/caches/9.0.0/transforms/75514ded28ad33de64690b8ab66fd95e/transformed/lifecycle-runtime-2.6.1/res
+com.four_zreo.soulrepair.app-drawerlayout-1.1.1-14 /Users/doraallenx/.gradle/caches/9.0.0/transforms/8f3b607466194f69b77722036c82e01b/transformed/drawerlayout-1.1.1/res
+com.four_zreo.soulrepair.app-jetified-annotation-experimental-1.3.0-15 /Users/doraallenx/.gradle/caches/9.0.0/transforms/93e3599f1fd0429d2016a115b9042ad3/transformed/jetified-annotation-experimental-1.3.0/res
+com.four_zreo.soulrepair.app-jetified-profileinstaller-1.3.0-16 /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/res
+com.four_zreo.soulrepair.app-cardview-1.0.0-17 /Users/doraallenx/.gradle/caches/9.0.0/transforms/9861fa98f1d8756955904c541e615daa/transformed/cardview-1.0.0/res
+com.four_zreo.soulrepair.app-material-1.11.0-18 /Users/doraallenx/.gradle/caches/9.0.0/transforms/9d713a1917f5673191681fdce7d89671/transformed/material-1.11.0/res
+com.four_zreo.soulrepair.app-lifecycle-livedata-2.6.1-19 /Users/doraallenx/.gradle/caches/9.0.0/transforms/a9692717504e499b8ac5a31f57338492/transformed/lifecycle-livedata-2.6.1/res
+com.four_zreo.soulrepair.app-jetified-emoji2-1.2.0-20 /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/res
+com.four_zreo.soulrepair.app-jetified-lifecycle-process-2.6.1-21 /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3ca942c75f6994e51884b499f5defc8/transformed/jetified-lifecycle-process-2.6.1/res
+com.four_zreo.soulrepair.app-gridlayout-1.0.0-22 /Users/doraallenx/.gradle/caches/9.0.0/transforms/c9fcb3ba9635e3f7db0539b421de15c9/transformed/gridlayout-1.0.0/res
+com.four_zreo.soulrepair.app-fragment-1.3.6-23 /Users/doraallenx/.gradle/caches/9.0.0/transforms/caf7f4b5da06207d939cce4d6adb1269/transformed/fragment-1.3.6/res
+com.four_zreo.soulrepair.app-jetified-viewpager2-1.0.0-24 /Users/doraallenx/.gradle/caches/9.0.0/transforms/cd7d25d3e033cc6c7a2b16eed8d145fa/transformed/jetified-viewpager2-1.0.0/res
+com.four_zreo.soulrepair.app-core-runtime-2.2.0-25 /Users/doraallenx/.gradle/caches/9.0.0/transforms/d82ccdd0a53f2575a449930e3c4e6d35/transformed/core-runtime-2.2.0/res
+com.four_zreo.soulrepair.app-jetified-startup-runtime-1.1.1-26 /Users/doraallenx/.gradle/caches/9.0.0/transforms/da389c467e74d8a7d734cbc7dad8a285/transformed/jetified-startup-runtime-1.1.1/res
+com.four_zreo.soulrepair.app-core-1.12.0-27 /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/res
+com.four_zreo.soulrepair.app-pngs-28 /Users/doraallenx/Pictures/codes/soul repair/app/build/generated/res/pngs/debug
+com.four_zreo.soulrepair.app-resValues-29 /Users/doraallenx/Pictures/codes/soul repair/app/build/generated/res/resValues/debug
+com.four_zreo.soulrepair.app-packageDebugResources-30 /Users/doraallenx/Pictures/codes/soul repair/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.four_zreo.soulrepair.app-packageDebugResources-31 /Users/doraallenx/Pictures/codes/soul repair/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.four_zreo.soulrepair.app-debug-32 /Users/doraallenx/Pictures/codes/soul repair/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.four_zreo.soulrepair.app-debug-33 /Users/doraallenx/Pictures/codes/soul repair/app/src/debug/res
+com.four_zreo.soulrepair.app-main-34 /Users/doraallenx/Pictures/codes/soul repair/app/src/main/res

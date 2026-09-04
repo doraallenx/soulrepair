@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.four_zreo.soulrepair.app-mergeDebugResources-30:/values-uz-rUZ/values-uz-rUZ.xml",
+            "map": [
+                {
+                    "source": "/Users/doraallenx/Pictures/codes/soul repair/app/src/main/res/values-uz-rUZ/strings.xml",
+                    "from": {
+                        "startLines": "3,7,8,4,5,2,15,14,11,10,9,12,13,16,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "111,416,494,186,260,55,1052,966,733,656,587,812,890,1133,347",
+                        "endColumns": "74,77,92,73,86,55,80,85,78,76,68,77,75,74,68",
+                        "endOffsets": "181,489,582,255,342,106,1128,1047,807,728,651,885,961,1203,411"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,130,208,301,375,462,518,599,685,764,841,910,988,1064,1139",
+                        "endColumns": "74,77,92,73,86,55,80,85,78,76,68,77,75,74,68",
+                        "endOffsets": "125,203,296,370,457,513,594,680,759,836,905,983,1059,1134,1203"
+                    }
+                }
+            ]
+        }
+    ]
+}

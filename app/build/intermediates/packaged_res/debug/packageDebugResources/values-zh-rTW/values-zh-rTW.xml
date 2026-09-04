@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="About">關於</string>
+    <string name="Colors">色彩</string>
+    <string name="Musics">音樂</string>
+    <string name="NoMusicFolder">找不到音樂資料夾</string>
+    <string name="action_settings">設定</string>
+    <string name="app_name">Soul Repair</string>
+    <string name="failed_load_image">圖片載入失敗</string>
+    <string name="hello_world">你好，世界！</string>
+    <string name="no_songs_found">找不到音樂檔案</string>
+    <string name="pick_from_gallery">從相簿選取圖片</string>
+    <string name="playlist_title">播放清單</string>
+    <string name="repeat_off">重複播放：關閉</string>
+    <string name="repeat_on">重複播放：開啟</string>
+    <string name="seekbar_dot_title">進度條圖示</string>
+    <string name="select_picture">選擇圖片</string>
+    <string name="shuffle_off">隨機播放：關閉</string>
+    <string name="shuffle_on">隨機播放：開啟</string>
+    <string name="standard_dot">恢復預設圓點</string>
+</resources>

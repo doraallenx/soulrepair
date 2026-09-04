@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="16dp"
+    app:cardElevation="0dp"
+    app:cardBackgroundColor="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <ImageView
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="16dp"
+            android:src="@mipmap/ic_launcher" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="MyApps Studio"
+            android:textColor="#333333"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="4dp"
+            android:text="Soul Repair v1.10"
+            android:textColor="#888888"
+            android:textSize="14sp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="16dp"
+            android:background="#EEEEEE" />
+
+        <androidx.core.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="180dp">
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:lineSpacingExtra="4dp"
+                android:text="Development IDE : Google ADT with IBM Eclipse JUNO, Google Android Studio, Google Antigravity.\n\nDevelopment AI Agent : Google Gemini.\n\nGraphic Design : Paint.NET, GIMP, Adobe Photoshop Elements 11.\n\nIcons &amp; PSD Providers : Iconfinder, Iconpedia, PremiumPSD, deviantART.\n\nMusics : YouTube, X-Plane 10-Boeing 777 Seatbelt Sounds.\n\nMusic Player Source : AndroidHive.\n\nMusic Play Icon : LinhPham.me.\n\nMusic Box Icons : Ypf, Custom Icon Design.\n\nFile Browser : paulasiimwe\n\nImport Button : www.mindfreakerstuff.com\n\nMusic Provider : Google Youtube\n\nRoyalty Free Music : Incompetech"
+                android:textColor="#666666"
+                android:textSize="12sp" />
+        </androidx.core.widget.NestedScrollView>
+
+        <Button
+            android:id="@+id/dialog_button_close"
+            style="@style/Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:layout_marginTop="8dp"
+            android:minWidth="0dp"
+            android:paddingStart="12dp"
+            android:paddingEnd="0dp"
+            android:text="OK"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

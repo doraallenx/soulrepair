@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.four_zreo.soulrepair.app-mergeDebugResources-30:/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/doraallenx/Pictures/codes/soul repair/app/src/main/res/values-w600dp-v13/dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    }
+                },
+                {
+                    "source": "/Users/doraallenx/Pictures/codes/soul repair/app/src/main/res/values-w600dp-v13/integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "118",
+                        "endColumns": "54",
+                        "endOffsets": "168"
+                    }
+                }
+            ]
+        }
+    ]
+}

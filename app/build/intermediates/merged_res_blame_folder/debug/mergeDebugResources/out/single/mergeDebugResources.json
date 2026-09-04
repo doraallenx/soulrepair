@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_soul_repair_layout_colors1000.jpg.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/soul_repair_layout_colors1000.jpg"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_shuffle_pressed.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_shuffle_pressed.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_pause_pressed.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_pause_pressed.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_ic_arrow_forward.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/ic_arrow_forward.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-mdpi-v4_document_gray.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-mdpi-v4/document_gray.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_playlist.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_playlist.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_musics_layout.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/musics_layout.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_custom_btn_orange.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/custom_btn_orange.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_custom_btn_seagull.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/custom_btn_seagull.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_pause.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_pause.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_seekbar_progress.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/seekbar_progress.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_ic_repeat.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/ic_repeat.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_gradient.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/gradient.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_list_single.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/list_single.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_custom_icon_design_import_256.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/custom_icon_design_import_256.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_folder.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/folder.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_customcheckbox_background.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/customcheckbox_background.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_custom_btn_livid_brown.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/custom_btn_livid_brown.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_play.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_play.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_backward_pressed.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_backward_pressed.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_snoopy_with_friend_woodstock_model.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/snoopy_with_friend_woodstock_model.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_imageviewlayout.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/imageviewlayout.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_btn_forward.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/btn_forward.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_bg_player_header.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/bg_player_header.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_btn_repeat_focused.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/btn_repeat_focused.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_gradient2.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/gradient2.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_rounded_corner.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/rounded_corner.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_document.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/document.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_change_btn_bg.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/change_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_doraemon_model.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/doraemon_model.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_bg_player_footer.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/bg_player_footer.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_main.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/main.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_ic_play_arrow.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/ic_play_arrow.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/menu_main__soul__repair_.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/menu/main__soul__repair_.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_forward_pressed.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_forward_pressed.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_next.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_next.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_ic_shuffle.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/ic_shuffle.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_ic_media_play_google_api_19.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/ic_media_play_google_api_19.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_forward.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_forward.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_item_import_audio.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/item_import_audio.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/font_rounded_font.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/font/rounded_font.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_list_single_only.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/list_single_only.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_ic_add.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_shuffle.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_shuffle.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_document_gray.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/document_gray.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-mdpi-v4_folder.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-mdpi-v4/folder.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_repeat.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_repeat.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_soul_repair_layout_musics1000.jpg.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/soul_repair_layout_musics1000.jpg"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/anim_fade_out.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-ldpi-v4_document.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-ldpi-v4/document.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_btn_backward.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/btn_backward.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_button_response.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/button_response.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_btn_repeat.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/btn_repeat.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_ic_pause.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_ic_music_note.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/ic_music_note.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_playlist_pressed.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_playlist_pressed.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_seek_handler.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/seek_handler.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_track_info_bg.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/track_info_bg.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_previous_pressed.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_previous_pressed.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/font_zen_maru_gothic_bold.ttf.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/font/zen_maru_gothic_bold.ttf"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/font_zen_maru_gothic_medium.ttf.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/font/zen_maru_gothic_medium.ttf"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_playlist.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/playlist.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_customcheckbox.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/customcheckbox.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_gradient_bg_hover.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/gradient_bg_hover.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_btn_playlist.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/btn_playlist.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-mdpi-v4_document.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-mdpi-v4/document.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_btn_shuffle.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/btn_shuffle.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_seekbar_progress_bg.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/seekbar_progress_bg.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_whole_colors_preview.jpg.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/whole_colors_preview.jpg"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_skyblue_preview.jpg.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/skyblue_preview.jpg"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_backward.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_backward.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_activity_splash.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_music_box_1414492985_shared_music.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/music_box_1414492985_shared_music.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_btn_next.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/btn_next.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_activity_file_selection.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/activity_file_selection.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_list_selector.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/list_selector.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_btn_check_off_holo_dark.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/btn_check_off_holo_dark.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_subbk.jpg.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/subbk.jpg"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/anim_fade_in.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_ic_skip_next.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/ic_skip_next.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_ic_fast_forward.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/ic_fast_forward.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_iconfinder_1414231589_play_store_512.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/iconfinder_1414231589_play_store_512.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_seekbar_dot_btn_bg.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/seekbar_dot_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_ic_playlist_play.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/ic_playlist_play.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_seekbar_progress.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/seekbar_progress.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_playlist_item.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/playlist_item.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-ldpi-v4_folder.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-ldpi-v4/folder.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_bg.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/bg.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_floating_bar_dark_background.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/floating_bar_dark_background.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_seekbar_thumb.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/seekbar_thumb.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_seekbar_progress_blue.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_seekbar_progress_blue.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_btn_play.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/btn_play.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_gradient_bg.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/gradient_bg.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_blue_hybrid_black_preview.jpg.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/blue_hybrid_black_preview.jpg"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_control_btn_bg.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/control_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.four_zreo.soulrepair.app-debug-32:/layout_item_import_audio.xml.flat",
+        "source": "com.four_zreo.soulrepair.app-main-34:/layout/item_import_audio.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_player.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/player.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_colors_layout.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/colors_layout.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_previous.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_previous.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_sexonthebeach.jpg.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/sexonthebeach.jpg"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_seekbar_bg.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_seekbar_bg.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-xxhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-xxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_adele.jpg.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/adele.jpg"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_winnie_the_pooh_model.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/winnie_the_pooh_model.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_repeat_pressed.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_repeat_pressed.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_btn_pause.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/btn_pause.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_white_preview.jpg.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/white_preview.jpg"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_ic_music_queue.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/ic_music_queue.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_music_player_1414492920_audio_cd.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/music_player_1414492920_audio_cd.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_floating_bar_background.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/floating_bar_background.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_music_control_btn_bg.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/music_control_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_activity_main__soul__repair_.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/activity_main__soul__repair_.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/layout_dialog_layout.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/layout/dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_seekbar_progress_white.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/seekbar_progress_white.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_btn_check_on_holo_dark.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/btn_check_on_holo_dark.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_ic_skip_previous.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/ic_skip_previous.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_btn_check_label_background.9.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/btn_check_label_background.9.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_play_pressed.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_play_pressed.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-ldpi-v4_document_gray.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-ldpi-v4/document_gray.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_btn_previous.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/btn_previous.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable_ic_fast_rewind.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable/ic_fast_rewind.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_img_btn_next_pressed.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/img_btn_next_pressed.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/drawable-hdpi-v4_btn_shuffle_focused.xml.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/drawable-hdpi-v4/btn_shuffle_focused.xml"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-debug-32:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/doraallenx/.gradle/daemon/9.0.0/com.four_zreo.soulrepair.app-main-34:/mipmap-xhdpi/ic_launcher.png"
+    }
+]

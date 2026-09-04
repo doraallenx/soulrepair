@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.four_zreo.soulrepair"
+    platformBuildVersionCode="21"
+    platformBuildVersionName="5.0-1521886"
+    android:versionCode="7"
+    android:versionName="1.Soul.Repair.10" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.four_zreo.soulrepair.Splash_Screen"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.four_zreo.soulrepair.Main_Soul_Repair_Activity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="com.four_zreo.soulrepair.Colors_Activity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.four_zreo.soulrepair.Musics_Activity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.four_zreo.soulrepair.Colors_OpenBlackHybridBlue_Activity"
+            android:theme="@style/AppTheme.FullScreen" />
+        <activity
+            android:name="com.four_zreo.soulrepair.Colors_OpenWholeColors_Activity"
+            android:theme="@style/AppTheme.FullScreen" />
+        <activity
+            android:name="com.four_zreo.soulrepair.Colors_OpenWhite_Activity"
+            android:theme="@style/AppTheme.FullScreen" />
+        <activity
+            android:name="com.four_zreo.soulrepair.Colors_OpenLightBlue_Activity"
+            android:theme="@style/AppTheme.FullScreen" />
+        <activity
+            android:name="com.four_zreo.soulrepair.androidhive.musicplayer.AndroidBuildingMusicPlayerActivity"
+            android:configChanges="screenSize|orientation|keyboardHidden"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.four_zreo.soulrepair.androidhive.musicplayer.PlayListActivity"
+            android:label="@string/app_name" />
+        <activity android:name="com.four_zreo.soulrepair.paul.arian.fileselector.FileSelectionActivity" />
+    </application>
+
+</manifest>

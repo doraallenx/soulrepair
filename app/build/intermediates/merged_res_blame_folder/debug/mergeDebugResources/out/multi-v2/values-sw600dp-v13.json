@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.four_zreo.soulrepair.app-mergeDebugResources-30:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/doraallenx/.gradle/caches/9.0.0/transforms/9d713a1917f5673191681fdce7d89671/transformed/material-1.11.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,553,617,673,732,795",
+                        "endLines": "2,3,4,5,6,7,9,10,11,12,13,17",
+                        "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
+                        "endOffsets": "110,180,251,323,381,439,548,612,668,727,790,962"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,19,20,21,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "681,741,811,882,954,1012,1070,1179,1243,1299,1413,1476",
+                        "endLines": "11,12,13,14,15,16,18,19,20,21,23,27",
+                        "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
+                        "endOffsets": "736,806,877,949,1007,1065,1174,1238,1294,1353,1471,1643"
+                    }
+                },
+                {
+                    "source": "/Users/doraallenx/Pictures/codes/soul repair/app/src/main/res/values-sw600dp-v13/integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "1358",
+                        "endColumns": "54",
+                        "endOffsets": "1408"
+                    }
+                },
+                {
+                    "source": "/Users/doraallenx/Pictures/codes/soul repair/app/src/main/res/values-sw600dp-v13/dimens.xml",
+                    "from": {
+                        "startLines": "5,6,2,4,3",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "253,323,55,182,114",
+                        "endColumns": "69,69,58,70,67",
+                        "endOffsets": "318,388,109,248,177"
+                    },
+                    "to": {
+                        "startLines": "4,6,8,9,10",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "193,337,483,542,613",
+                        "endColumns": "69,69,58,70,67",
+                        "endOffsets": "258,402,537,608,676"
+                    }
+                },
+                {
+                    "source": "/Users/doraallenx/.gradle/caches/9.0.0/transforms/011a29a351f539b97bd199ed624dc93a/transformed/appcompat-1.6.1/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,5,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,124,263,337",
+                        "endColumns": "68,68,73,75",
+                        "endOffsets": "119,188,332,408"
+                    },
+                    "to": {
+                        "startLines": "2,3,5,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,124,263,407",
+                        "endColumns": "68,68,73,75",
+                        "endOffsets": "119,188,332,478"
+                    }
+                }
+            ]
+        }
+    ]
+}

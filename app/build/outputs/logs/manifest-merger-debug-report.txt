@@ -1,0 +1,403 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:2:1-69:12
+INJECTED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:2:1-69:12
+MERGED from [com.google.android.material:material:1.11.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/9d713a1917f5673191681fdce7d89671/transformed/material-1.11.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/32594f2e2bf108215cf751658af1d4fd/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/4efdeaa0ff9fecada8382da35e9b5ca8/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/011a29a351f539b97bd199ed624dc93a/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/9861fa98f1d8756955904c541e615daa/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/c9fcb3ba9635e3f7db0539b421de15c9/transformed/gridlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/107094d0a44ecbce7315b5d23c3b3a0e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/134f3797c927e0483e3a0e2c981d38bd/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/537a95cedfd41099d2596e8a7f3e37d4/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/cd7d25d3e033cc6c7a2b16eed8d145fa/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/doraallenx/.gradle/caches/9.0.0/transforms/caf7f4b5da06207d939cce4d6adb1269/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/6128a11fa278ccf51aea620c2112eb14/transformed/jetified-activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/8f3b607466194f69b77722036c82e01b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/97a90be3854280db79c388ba73d7b77c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/1afabd81e4319390448f706504844a56/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/aa81890e37c2a8a370173c141490187e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/eadac7a7cd4e9fd22c0126a6eec0f621/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/4232a4e3b25f25fec5f14dc8270c04d2/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3cfc83fd93fc33a130621cf6d1312ba/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/2a40324a381008fc03314bacc327cfdf/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3ca942c75f6994e51884b499f5defc8/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/1af304dc1bfefc8e401d792017ddb2f2/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/a9692717504e499b8ac5a31f57338492/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/1e6633c2b2b039aa2e6a0293d876a96f/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/75514ded28ad33de64690b8ab66fd95e/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/1f4aa5a00265edd78c30b00b555af1ae/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/5f57380cab740ee61557ecba464825f6/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/cf549e2d57634747ec811c7c8c166f8a/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/370a2b489337c3cdee329338e9e2d460/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/6902c64b2b2bbdcfc0ae25d4cd0df8bd/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/fd1df0ed4f1df69e44e0e4bd23bb3839/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/59452faa973393437b7e904f87916f8f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/308cbc1d3e3ec4debb79d9643cab7e39/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/1e3451cdcd338e75d7d98355b72694bc/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/84e03c16017fb7b1fab6213b0d2f9f24/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/c4c114a5c23430f20684a3c777f3fe99/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/da389c467e74d8a7d734cbc7dad8a285/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/2e6949b58b12401e1c8a6aae0ae7fc54/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/d82ccdd0a53f2575a449930e3c4e6d35/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/e7b22d063647bfb914e7a332e20f62af/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/56e5306d5daf768f6a271c5cd2c4fdf9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/43f7cddd01773fe0bb2213873c9e35cf/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/93e3599f1fd0429d2016a115b9042ad3/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:4:5-5:38
+	android:maxSdkVersion
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:5:9-35
+	android:name
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:4:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:6:5-7:38
+	android:maxSdkVersion
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:7:9-35
+	android:name
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.READ_MEDIA_AUDIO
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:8:22-72
+application
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:10:5-68:19
+INJECTED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:10:5-68:19
+MERGED from [com.google.android.material:material:1.11.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/9d713a1917f5673191681fdce7d89671/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/9d713a1917f5673191681fdce7d89671/transformed/material-1.11.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/4efdeaa0ff9fecada8382da35e9b5ca8/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/4efdeaa0ff9fecada8382da35e9b5ca8/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3ca942c75f6994e51884b499f5defc8/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3ca942c75f6994e51884b499f5defc8/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/c4c114a5c23430f20684a3c777f3fe99/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/c4c114a5c23430f20684a3c777f3fe99/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/da389c467e74d8a7d734cbc7dad8a285/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/da389c467e74d8a7d734cbc7dad8a285/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml
+	android:requestLegacyExternalStorage
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:16:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.four_zreo.soulrepair.Splash_Screen
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:18:13-45
+	android:noHistory
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:20:13-37
+	android:exported
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:19:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:23:17-68
+	android:name
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.four_zreo.soulrepair.Main_Soul_Repair_Activity
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:27:9-31:39
+	android:label
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:28:13-45
+	android:launchMode
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:30:13-43
+	android:exported
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:29:13-78
+activity#com.four_zreo.soulrepair.Colors_Activity
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:32:9-35:39
+	android:label
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:33:13-45
+	android:exported
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:34:13-68
+activity#com.four_zreo.soulrepair.Musics_Activity
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:36:9-39:39
+	android:label
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:37:13-45
+	android:exported
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:38:13-68
+activity#com.four_zreo.soulrepair.Colors_OpenBlackHybridBlue_Activity
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:40:9-43:39
+	android:exported
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:43:13-37
+	android:theme
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:42:13-55
+	android:name
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:41:13-88
+activity#com.four_zreo.soulrepair.Colors_OpenWholeColors_Activity
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:44:9-47:39
+	android:exported
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:47:13-37
+	android:theme
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:46:13-55
+	android:name
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:45:13-84
+activity#com.four_zreo.soulrepair.Colors_OpenWhite_Activity
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:48:9-51:39
+	android:exported
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:51:13-37
+	android:theme
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:50:13-55
+	android:name
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:49:13-78
+activity#com.four_zreo.soulrepair.Colors_OpenLightBlue_Activity
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:52:9-55:39
+	android:exported
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:55:13-37
+	android:theme
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:54:13-55
+	android:name
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:53:13-82
+activity#com.four_zreo.soulrepair.androidhive.musicplayer.AndroidBuildingMusicPlayerActivity
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:56:9-60:39
+	android:label
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:57:13-45
+	android:exported
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:60:13-37
+	android:configChanges
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:59:13-74
+	android:name
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:58:13-111
+activity#com.four_zreo.soulrepair.androidhive.musicplayer.PlayListActivity
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:61:9-64:39
+	android:label
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:62:13-45
+	android:exported
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:63:13-93
+activity#com.four_zreo.soulrepair.paul.arian.fileselector.FileSelectionActivity
+ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:65:9-67:39
+	android:exported
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:66:13-98
+uses-sdk
+INJECTED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml
+INJECTED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.11.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/9d713a1917f5673191681fdce7d89671/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/9d713a1917f5673191681fdce7d89671/transformed/material-1.11.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/32594f2e2bf108215cf751658af1d4fd/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/32594f2e2bf108215cf751658af1d4fd/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/4efdeaa0ff9fecada8382da35e9b5ca8/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/4efdeaa0ff9fecada8382da35e9b5ca8/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/011a29a351f539b97bd199ed624dc93a/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/011a29a351f539b97bd199ed624dc93a/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/9861fa98f1d8756955904c541e615daa/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/9861fa98f1d8756955904c541e615daa/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/c9fcb3ba9635e3f7db0539b421de15c9/transformed/gridlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/c9fcb3ba9635e3f7db0539b421de15c9/transformed/gridlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/107094d0a44ecbce7315b5d23c3b3a0e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/107094d0a44ecbce7315b5d23c3b3a0e/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/134f3797c927e0483e3a0e2c981d38bd/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/134f3797c927e0483e3a0e2c981d38bd/transformed/coordinatorlayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/537a95cedfd41099d2596e8a7f3e37d4/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/537a95cedfd41099d2596e8a7f3e37d4/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/cd7d25d3e033cc6c7a2b16eed8d145fa/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/cd7d25d3e033cc6c7a2b16eed8d145fa/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/doraallenx/.gradle/caches/9.0.0/transforms/caf7f4b5da06207d939cce4d6adb1269/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/doraallenx/.gradle/caches/9.0.0/transforms/caf7f4b5da06207d939cce4d6adb1269/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/6128a11fa278ccf51aea620c2112eb14/transformed/jetified-activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/6128a11fa278ccf51aea620c2112eb14/transformed/jetified-activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/8f3b607466194f69b77722036c82e01b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/8f3b607466194f69b77722036c82e01b/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/97a90be3854280db79c388ba73d7b77c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/97a90be3854280db79c388ba73d7b77c/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/1afabd81e4319390448f706504844a56/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/1afabd81e4319390448f706504844a56/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/aa81890e37c2a8a370173c141490187e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/aa81890e37c2a8a370173c141490187e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/eadac7a7cd4e9fd22c0126a6eec0f621/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/eadac7a7cd4e9fd22c0126a6eec0f621/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/4232a4e3b25f25fec5f14dc8270c04d2/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/4232a4e3b25f25fec5f14dc8270c04d2/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3cfc83fd93fc33a130621cf6d1312ba/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3cfc83fd93fc33a130621cf6d1312ba/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/2a40324a381008fc03314bacc327cfdf/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/2a40324a381008fc03314bacc327cfdf/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3ca942c75f6994e51884b499f5defc8/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3ca942c75f6994e51884b499f5defc8/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/1af304dc1bfefc8e401d792017ddb2f2/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/1af304dc1bfefc8e401d792017ddb2f2/transformed/lifecycle-livedata-core-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/a9692717504e499b8ac5a31f57338492/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/a9692717504e499b8ac5a31f57338492/transformed/lifecycle-livedata-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/1e6633c2b2b039aa2e6a0293d876a96f/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/1e6633c2b2b039aa2e6a0293d876a96f/transformed/lifecycle-viewmodel-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/75514ded28ad33de64690b8ab66fd95e/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/75514ded28ad33de64690b8ab66fd95e/transformed/lifecycle-runtime-2.6.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/1f4aa5a00265edd78c30b00b555af1ae/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/1f4aa5a00265edd78c30b00b555af1ae/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/5f57380cab740ee61557ecba464825f6/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/5f57380cab740ee61557ecba464825f6/transformed/jetified-core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/cf549e2d57634747ec811c7c8c166f8a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/cf549e2d57634747ec811c7c8c166f8a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/370a2b489337c3cdee329338e9e2d460/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/370a2b489337c3cdee329338e9e2d460/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/6902c64b2b2bbdcfc0ae25d4cd0df8bd/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/6902c64b2b2bbdcfc0ae25d4cd0df8bd/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/fd1df0ed4f1df69e44e0e4bd23bb3839/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/fd1df0ed4f1df69e44e0e4bd23bb3839/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/59452faa973393437b7e904f87916f8f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/59452faa973393437b7e904f87916f8f/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/308cbc1d3e3ec4debb79d9643cab7e39/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/308cbc1d3e3ec4debb79d9643cab7e39/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/1e3451cdcd338e75d7d98355b72694bc/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/1e3451cdcd338e75d7d98355b72694bc/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/84e03c16017fb7b1fab6213b0d2f9f24/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/84e03c16017fb7b1fab6213b0d2f9f24/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/c4c114a5c23430f20684a3c777f3fe99/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/c4c114a5c23430f20684a3c777f3fe99/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/da389c467e74d8a7d734cbc7dad8a285/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/da389c467e74d8a7d734cbc7dad8a285/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/2e6949b58b12401e1c8a6aae0ae7fc54/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/2e6949b58b12401e1c8a6aae0ae7fc54/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/d82ccdd0a53f2575a449930e3c4e6d35/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/d82ccdd0a53f2575a449930e3c4e6d35/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/e7b22d063647bfb914e7a332e20f62af/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/e7b22d063647bfb914e7a332e20f62af/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/56e5306d5daf768f6a271c5cd2c4fdf9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/56e5306d5daf768f6a271c5cd2c4fdf9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/43f7cddd01773fe0bb2213873c9e35cf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/43f7cddd01773fe0bb2213873c9e35cf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/93e3599f1fd0429d2016a115b9042ad3/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/93e3599f1fd0429d2016a115b9042ad3/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3ca942c75f6994e51884b499f5defc8/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3ca942c75f6994e51884b499f5defc8/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/da389c467e74d8a7d734cbc7dad8a285/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/da389c467e74d8a7d734cbc7dad8a285/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3ca942c75f6994e51884b499f5defc8/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3ca942c75f6994e51884b499f5defc8/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3ca942c75f6994e51884b499f5defc8/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.four_zreo.soulrepair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.four_zreo.soulrepair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92

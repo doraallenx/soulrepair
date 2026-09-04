@@ -1,0 +1,227 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.four_zreo.soulrepair"
+4    android:versionCode="7"
+5    android:versionName="1.Soul.Repair.10" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission
+11-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:4:5-5:38
+12        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+12-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:4:22-78
+13        android:maxSdkVersion="32" />
+13-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:5:9-35
+14    <uses-permission
+14-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:6:5-7:38
+15        android:name="android.permission.READ_EXTERNAL_STORAGE"
+15-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:6:22-77
+16        android:maxSdkVersion="32" />
+16-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:7:9-35
+17    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+17-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:8:5-75
+17-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:8:22-72
+18
+19    <permission
+19-->[androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+20        android:name="com.four_zreo.soulrepair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+20-->[androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+21        android:protectionLevel="signature" />
+21-->[androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+22
+23    <uses-permission android:name="com.four_zreo.soulrepair.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+23-->[androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+23-->[androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+24
+25    <application
+25-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:10:5-68:19
+26        android:allowBackup="true"
+26-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:15:9-35
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.12.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ea7128d4b31d5ea24365c1f918bb8aed/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+28        android:debuggable="true"
+29        android:extractNativeLibs="true"
+30        android:icon="@mipmap/ic_launcher"
+30-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:13:9-43
+31        android:label="@string/app_name"
+31-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:12:9-41
+32        android:requestLegacyExternalStorage="true"
+32-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:16:9-52
+33        android:roundIcon="@mipmap/ic_launcher_round"
+33-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:14:9-54
+34        android:theme="@style/AppTheme" >
+34-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:11:9-40
+35        <activity
+35-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:17:9-26:20
+36            android:name="com.four_zreo.soulrepair.Splash_Screen"
+36-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:19:13-66
+37            android:exported="true"
+37-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:21:13-36
+38            android:label="@string/app_name"
+38-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:18:13-45
+39            android:noHistory="true" >
+39-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:20:13-37
+40            <intent-filter>
+40-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:22:13-25:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:23:17-68
+41-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:23:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:24:17-76
+43-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:24:27-74
+44            </intent-filter>
+45        </activity>
+46        <activity
+46-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:27:9-31:39
+47            android:name="com.four_zreo.soulrepair.Main_Soul_Repair_Activity"
+47-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:29:13-78
+48            android:exported="false"
+48-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:31:13-37
+49            android:label="@string/app_name"
+49-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:28:13-45
+50            android:launchMode="singleTop" />
+50-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:30:13-43
+51        <activity
+51-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:32:9-35:39
+52            android:name="com.four_zreo.soulrepair.Colors_Activity"
+52-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:34:13-68
+53            android:exported="false"
+53-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:35:13-37
+54            android:label="@string/app_name" />
+54-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:33:13-45
+55        <activity
+55-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:36:9-39:39
+56            android:name="com.four_zreo.soulrepair.Musics_Activity"
+56-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:38:13-68
+57            android:exported="false"
+57-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:39:13-37
+58            android:label="@string/app_name" />
+58-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:37:13-45
+59        <activity
+59-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:40:9-43:39
+60            android:name="com.four_zreo.soulrepair.Colors_OpenBlackHybridBlue_Activity"
+60-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:41:13-88
+61            android:exported="false"
+61-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:43:13-37
+62            android:theme="@style/AppTheme.FullScreen" />
+62-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:42:13-55
+63        <activity
+63-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:44:9-47:39
+64            android:name="com.four_zreo.soulrepair.Colors_OpenWholeColors_Activity"
+64-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:45:13-84
+65            android:exported="false"
+65-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:47:13-37
+66            android:theme="@style/AppTheme.FullScreen" />
+66-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:46:13-55
+67        <activity
+67-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:48:9-51:39
+68            android:name="com.four_zreo.soulrepair.Colors_OpenWhite_Activity"
+68-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:49:13-78
+69            android:exported="false"
+69-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:51:13-37
+70            android:theme="@style/AppTheme.FullScreen" />
+70-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:50:13-55
+71        <activity
+71-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:52:9-55:39
+72            android:name="com.four_zreo.soulrepair.Colors_OpenLightBlue_Activity"
+72-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:53:13-82
+73            android:exported="false"
+73-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:55:13-37
+74            android:theme="@style/AppTheme.FullScreen" />
+74-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:54:13-55
+75        <activity
+75-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:56:9-60:39
+76            android:name="com.four_zreo.soulrepair.androidhive.musicplayer.AndroidBuildingMusicPlayerActivity"
+76-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:58:13-111
+77            android:configChanges="screenSize|orientation|keyboardHidden"
+77-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:59:13-74
+78            android:exported="false"
+78-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:60:13-37
+79            android:label="@string/app_name" />
+79-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:57:13-45
+80        <activity
+80-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:61:9-64:39
+81            android:name="com.four_zreo.soulrepair.androidhive.musicplayer.PlayListActivity"
+81-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:63:13-93
+82            android:exported="false"
+82-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:64:13-37
+83            android:label="@string/app_name" />
+83-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:62:13-45
+84        <activity
+84-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:65:9-67:39
+85            android:name="com.four_zreo.soulrepair.paul.arian.fileselector.FileSelectionActivity"
+85-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:66:13-98
+86            android:exported="false" />
+86-->/Users/doraallenx/Pictures/codes/soul repair/app/src/main/AndroidManifest.xml:67:13-37
+87
+88        <provider
+88-->[androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+89            android:name="androidx.startup.InitializationProvider"
+89-->[androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+90            android:authorities="com.four_zreo.soulrepair.androidx-startup"
+90-->[androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+91            android:exported="false" >
+91-->[androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+92            <meta-data
+92-->[androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+93                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+93-->[androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+94                android:value="androidx.startup" />
+94-->[androidx.emoji2:emoji2:1.2.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/ae9673cc9a528b117b423cb95b4f591b/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+95            <meta-data
+95-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3ca942c75f6994e51884b499f5defc8/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+96                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+96-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3ca942c75f6994e51884b499f5defc8/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+97                android:value="androidx.startup" />
+97-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/doraallenx/.gradle/caches/9.0.0/transforms/b3ca942c75f6994e51884b499f5defc8/transformed/jetified-lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+98            <meta-data
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+99                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+100                android:value="androidx.startup" />
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+101        </provider>
+102
+103        <receiver
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+104            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+105            android:directBootAware="false"
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+106            android:enabled="true"
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+107            android:exported="true"
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+108            android:permission="android.permission.DUMP" >
+108-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+109            <intent-filter>
+109-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+110                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+111            </intent-filter>
+112            <intent-filter>
+112-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+113                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+114            </intent-filter>
+115            <intent-filter>
+115-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+116                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+117            </intent-filter>
+118            <intent-filter>
+118-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+119                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/doraallenx/.gradle/caches/9.0.0/transforms/95a6cc0989ba64f13c5b077ccd246d20/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+120            </intent-filter>
+121        </receiver>
+122    </application>
+123
+124</manifest>
